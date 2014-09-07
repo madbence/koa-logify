@@ -1,10 +1,10 @@
 # koa-logify
 
-[logify]() middleware for [koa]().
+[logify](http://npmjs.org/package/logify) middleware for [koa](http://npmjs.org/package/koa).
 
 ## Install
 
-Install the [package]() with [npm](http//npmjs.org):
+Install the [package](http://npmjs.org/package/koa-logify) with [npm](http//npmjs.org):
 
 ```sh
 $ npm install koa-logify
